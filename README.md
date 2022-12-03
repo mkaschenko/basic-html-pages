@@ -67,7 +67,7 @@ See the specification at [https://ogp.me](https://ogp.me)
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta property="og:title" content="A Basic HTML page">
+    <meta property="og:title" content="The Open Graph protocol">
     <meta property="og:type" content="website">
     <meta property="og:image" content="">
     <meta property="og:url" content="">
