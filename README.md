@@ -2,8 +2,9 @@
 
 1. [A basic HTML page](#a-basic-html-page)
 2. [The HTML meta element](#the-html-meta-element)
-3. [The HTML style element](#the-html-style-element)
-4. [The Open Graph protocol](#the-open-graph-protocol)
+3. [The HTML script element](#the-html-script-element)
+4. [The HTML style element](#the-html-style-element)
+5. [The Open Graph protocol](#the-open-graph-protocol)
 
 ## A basic HTML page
 
@@ -35,6 +36,21 @@ See the specification at [https://html.spec.whatwg.org/#the-meta-element](https:
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+</html>
+```
+
+## The HTML script element
+
+See the specification at [https://html.spec.whatwg.org/#the-script-element](https://html.spec.whatwg.org/#the-script-element)
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>
+      window.alert("The HTML script element");
+    </script>
   </head>
 </html>
 ```
